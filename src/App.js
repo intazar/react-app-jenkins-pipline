@@ -7,10 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        <h1> Hello Taazaa Team </h1>
-      <h2> My name is Intazarul </h2>
-      <h3> I am in love with devops (CI/CD) pipeline for React Project </h3>
-      <h4> Version 2 is going on. We will launch version 3 very soon. </h4>
+        <h1> Hello </h1>
+        <h3> I (Intazar) am in love with devops (CI/CD) pipeline for React Project </h3>
+        <h4> Version 2 is going on. We will launch version 3 very soon. </h4>
         </p>
         <a
           className="App-link"
